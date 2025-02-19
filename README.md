@@ -21,6 +21,7 @@
   - servlet-api
   - jsp-api
   - json
+  - AJAX
   - beanUtil
   - servlet filter
   - Jquery
